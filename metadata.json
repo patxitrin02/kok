@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot de Historia Interactivo",
+  "description": "Una aplicación web desarrollada con Next.js App Router para aprendizaje interactivo de historia usando @google/genai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
